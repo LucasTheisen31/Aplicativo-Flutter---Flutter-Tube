@@ -35,7 +35,7 @@ class MyApp extends StatelessWidget {
             ),
           )
         ),
-        title: 'Flutter Tube2',
+        title: 'Flutter Tube',
         home: HomePage(),
       ),
     );
